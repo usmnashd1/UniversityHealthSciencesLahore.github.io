@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://usmnashd1.github.io/UniversityHealthSciencesLahore/sitemap.xml
+Sitemap: https://usmnashd1.github.io/UniversityHealthSciencesLahore.github.io/sitemap.xml
